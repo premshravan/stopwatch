@@ -1,0 +1,25 @@
+.main{
+    text-align: center;
+    border: salmon;
+    border-style: solid;
+    width: 20%;
+   margin-left: 35%;
+   margin-top: 10%;
+   padding: 5%;
+}
+
+.stopwatch{
+color: red;
+font-weight: bold;
+font-size: x-large;
+}
+
+
+button {
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    padding: 15px 15px;
+    border-radius: 10px;
+    
+}
+
